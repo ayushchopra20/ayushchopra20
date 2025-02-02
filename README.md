@@ -12,3 +12,10 @@ Databases: PostgreSQL, MySQL
 Development Practices: Agile Methodologies, Test-Driven Development, CI/CD Pipelines
 
 Tools: Git, Jira
+
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ayushchopra20/)
+- [Twitter](https://twitter.com/ayushchopra20)
+- [Personal Blog](https://ayushchopra20.github.io/)
