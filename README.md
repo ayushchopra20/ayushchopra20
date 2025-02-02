@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm Aayush Chopra, a passionate Software Engineer and Master's student in Computer and Information Science at the University of Michigan-Dearborn. With over four years of professional experience in software development, I specialize in building scalable applications, optimizing system performance, and solving complex technical challenges.
 
-<!--
-**ayushchopra20/ayushchopra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Expertise:
 
-Here are some ideas to get you started:
+Programming Languages: Python, JavaScript, Ruby on Rails, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Technologies: React, Node.js, .NET, AWS, Docker
+
+Databases: PostgreSQL, MySQL
+
+Development Practices: Agile Methodologies, Test-Driven Development, CI/CD Pipelines
+
+Tools: Git, Jira
