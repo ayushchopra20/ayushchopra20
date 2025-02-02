@@ -17,8 +17,6 @@ ________________________________________________________________________________
   💡 Contributor to open-source projects and active tech community member
 _____________________________________________________________________________________________________________________________
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-🕒 Current Time:  
-![Time](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/timezone/America/Detroit)
 
 _____________________________________________________________________________________________________________________________
 
@@ -27,10 +25,8 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________
 
-### 📰 Latest Tech News  
-- 🚀 [AI Beats Humans in Coding Competition](https://technews.example.com)  
-- 🔥 [New React Update Brings Performance Boost](https://reactnews.example.com)
 
+>>>>>>>>>>>>>>>>>>>>>>>
 ____________________________________________________________________________________________________________________________
 
 ![My Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=aayushchopra)
