@@ -39,14 +39,14 @@ I am diving into the exciting possibilities that arise when combining real-time 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushchopra&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchopra20&layout=compact&theme=radical)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushchopra&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayushchopra&theme=radical)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchopra20&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushchopra20&theme=radical)
 
 ---
 
