@@ -48,6 +48,10 @@ I am diving into the exciting possibilities that arise when combining real-time 
 ![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchopra20&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushchopra20&theme=radical)
 
+![Snake animation](https://github.com/aayushchopra/aayushchopra/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ---
 
 ## 🌍 Connect with me:
