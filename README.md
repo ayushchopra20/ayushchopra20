@@ -4,8 +4,6 @@
 
 I'm a passionate software engineer currently pursuing my Master's in Computer and Information Science at the University of Michigan-Dearborn. With over four years of professional experience in software development, I specialize in building scalable applications, optimizing system performance, and solving complex technical challenges.
 
----
-
 ## 🏆 Highlights & Achievements
 
 <ul>
