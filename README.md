@@ -49,8 +49,6 @@ I am diving into the exciting possibilities that arise when combining real-time 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushchopra20&theme=radical)
 
-![Snake animation](https://github.com/ayushchopra20/ayushchopra20/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌍 Connect with me:
