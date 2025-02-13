@@ -39,10 +39,9 @@ I am diving into the exciting possibilities that arise when combining real-time 
 
 ## 📊 GitHub Stats
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchopra20&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushchopra20&theme=radical)
 
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchopra20&show_icons=true&theme=radical)
 ## 🌍 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aachopra/)
