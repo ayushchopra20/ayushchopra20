@@ -19,7 +19,7 @@ I'm a passionate software engineer currently pursuing my Master's in Computer an
 
 <ul>
   <li><strong>Programming Languages:</strong> Python, JavaScript, Ruby on Rails, C++</li>
-  <li><strong>Frameworks & Technologies:</strong> React, Node.js, .NET, AWS, Docker</li>
+  <li><strong>Frameworks & Technologies:</strong> React, Node.js, AWS, Docker</li>
   <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
   <li><strong>Development Practices:</strong> Agile Methodologies, Test-Driven Development (TDD), CI/CD Pipelines</li>
   <li><strong>Tools:</strong> Git, Jira</li>
