@@ -7,7 +7,7 @@ I'm a passionate software engineer currently pursuing my Master's in Computer an
 ## 🏆 Highlights & Achievements
 
 <ul>
-  <li>🏅 4+ years of experience in software development</li>
+  <li>🏅 5 years of experience in software development</li>
   <li>🚀 Expertise in Full-Stack Development, Cloud Computing, and DevOps</li>
   <li>🎯 Passionate about solving complex problems and creating scalable solutions</li>
   <li>💡 Active contributor to open-source projects and an engaged member of the tech community</li>
