@@ -1,53 +1,31 @@
 # Hi there, I'm Aayush Chopra! 👋
+🚀 **DevOps / Site Reliability Engineer | Software Engineer | Master's Student in Computer & Information Science**
 
-🚀 **Software Engineer | Master's Student in Computer & Information Science**
-
-I'm a passionate software engineer currently pursuing my Master's in Computer and Information Science at the University of Michigan-Dearborn. With over four years of professional experience in software development, I specialize in building scalable applications, optimizing system performance, and solving complex technical challenges.
-
+I'm an engineer who loves keeping systems reliable, scalable, and fast — automating infrastructure, tightening CI/CD pipelines, orchestrating containers, and making sure systems stay up at scale.
+> Writing the code taught me *how* systems break. DevOps/SRE is where I make sure they don't.
 ## 🏆 Highlights & Achievements
-
 <ul>
-  <li>🏅 5 years of experience in software development</li>
-  <li>🚀 Expertise in Full-Stack Development, Cloud Computing, and DevOps</li>
-  <li>🎯 Passionate about solving complex problems and creating scalable solutions</li>
-  <li>💡 Active contributor to open-source projects and an engaged member of the tech community</li>
+  <li>⚙️ Hands-on with Kubernetes, Terraform, CI/CD pipelines, and cloud infrastructure on AWS</li>
+  <li>📊 Built monitoring and observability with Prometheus & Grafana to catch issues before users do</li>
+  <li>📉 Strong track record in performance optimization and reducing system bottlenecks</li>
+  <li>💡 Active open-source contributor and engaged member of the tech community</li>
 </ul>
-
 ---
-
-## 💼 Skills & Expertise
-
+## 🛠️ DevOps / SRE Toolkit
 <ul>
-  <li><strong>Programming Languages:</strong> Python, JavaScript, Ruby on Rails, C++</li>
-  <li><strong>Frameworks & Technologies:</strong> React, Node.js, AWS, Docker</li>
+  <li><strong>Container Orchestration:</strong> Kubernetes, Docker</li>
+  <li><strong>Infrastructure as Code:</strong> Terraform</li>
+  <li><strong>Cloud:</strong> AWS</li>
+  <li><strong>CI/CD & Automation:</strong> CI/CD Pipelines, Git, Bash & Python scripting</li>
+  <li><strong>Observability:</strong> Prometheus, Grafana, monitoring & alerting</li>
+  <li><strong>Reliability Practices:</strong> Performance optimization, incident response, TDD</li>
+</ul>
+## 💻 Software Engineering Foundation
+<ul>
+  <li><strong>Languages:</strong> Python, JavaScript, Ruby on Rails, C++, Bash</li>
+  <li><strong>Frameworks:</strong> React, Node.js</li>
   <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
-  <li><strong>Development Practices:</strong> Agile Methodologies, Test-Driven Development (TDD), CI/CD Pipelines</li>
-  <li><strong>Tools:</strong> Git, Jira</li>
+  <li><strong>Tools:</strong> Git, Jira, Docker</li>
 </ul>
-
 ---
-
-## 🚀 Currently Exploring:
-
-🔍 **Edge Computing** with **Computer Vision**, **Internet of Things (IoT)**, and **Machine Learning (ML)**. 
-
-I am diving into the exciting possibilities that arise when combining real-time processing at the edge with advanced machine learning models and IoT devices to unlock new solutions and efficiencies.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchopra20&layout=compact&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushchopra20&theme=radical)
-
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchopra20&show_icons=true&theme=radical)
-## 🌍 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aachopra/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ayushchopra20)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:aayushh@umich.edu)
-
----
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
