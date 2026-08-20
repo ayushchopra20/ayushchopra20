@@ -10,8 +10,8 @@ I'm an engineer who loves keeping systems reliable, scalable, and fast — autom
   <li>📉 Strong track record in performance optimization and reducing system bottlenecks</li>
   <li>💡 Active open-source contributor and engaged member of the tech community</li>
 </ul>
----
-## 🛠️ DevOps / SRE Toolkit
+
+🛠️ DevOps / SRE Toolkit
 <ul>
   <li><strong>Container Orchestration:</strong> Kubernetes, Docker</li>
   <li><strong>Infrastructure as Code:</strong> Terraform</li>
@@ -20,12 +20,12 @@ I'm an engineer who loves keeping systems reliable, scalable, and fast — autom
   <li><strong>Observability:</strong> Prometheus, Grafana, monitoring & alerting</li>
   <li><strong>Reliability Practices:</strong> Performance optimization, incident response, TDD</li>
 </ul>
-## 💻 Software Engineering Foundation
+💻 Software Engineering Foundation
 <ul>
   <li><strong>Languages:</strong> Python, JavaScript, Ruby on Rails, C++, Bash</li>
   <li><strong>Frameworks:</strong> React, Node.js</li>
   <li><strong>Databases:</strong> PostgreSQL, MySQL</li>
   <li><strong>Tools:</strong> Git, Jira, Docker</li>
 </ul>
----
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
